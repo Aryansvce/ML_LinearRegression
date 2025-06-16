@@ -104,7 +104,7 @@ SENDER_PASSWORD = "your_app_password"
 
 ## 🤝 Connect with Me
 
-- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/aryanhpe)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aryanhpe/)
 - **GitHub:** [GitHub](https://github.com/Aryansvce/ML_LinearRegression.git)
 - **Developer:** [Aryan Singh]
 
