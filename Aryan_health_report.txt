@@ -1,0 +1,16 @@
+
+    User: Aryan
+    Email: aryansvce@gmail.com
+    Weight: 89.0 kg
+    Age: 30
+    Gender: Male
+    Activity Level: Moderate
+
+    Predicted Height: 173.79 cm
+    BMI: 29.47 (Overweight)
+    Suggested Calorie Intake: 1500 - 1800 kcal/day
+    Activity Advice: Maintain 30-45 mins cardio or strength workouts.
+    Gender Tip: Include strength workouts. Ensure 7-8 hrs sleep.
+    Age Tip: Stay active! Office workouts or cycling recommended.
+    Mental Wellness Tip: Ensure 7-9 hours of quality sleep.
+    
